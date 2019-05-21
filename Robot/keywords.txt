@@ -1,0 +1,4 @@
+Robot KEYWORD1
+
+power KEYWORD2
+
